@@ -1,0 +1,5 @@
+{
+  "name": "MinoProxy",
+  "description": "A secure, high-speed proxy extension with smart routing and node selection.",
+  "requestFramePermissions": []
+}
