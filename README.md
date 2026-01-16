@@ -1,4 +1,4 @@
-# 🌍 Mino Free VPN Guide
+# 🌍 Mino Free VPN React Code
 
 > **Fast, Free & Easy VPN/Proxy that just works — no login, no signup.**  
 > A complete guide to using **Minoproxy** across devices with simple steps and visuals.
